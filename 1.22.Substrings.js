@@ -1,0 +1,1 @@
+"wonderful day".substring(3,7);
