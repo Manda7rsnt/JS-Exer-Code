@@ -1,0 +1,16 @@
+// Write your function below. 
+// Don't forget to call your function!
+
+var sleepCheck = function (number)
+{
+  
+if (number >= 8)
+{
+    return "You're getting plenty of sleep! Maybe even too much!";
+}
+else
+{
+    return "Get some more shut eye!";
+}
+};
+sleepCheck(1);
